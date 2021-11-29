@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129153185148",
+    "project_id": "playflow-nlw06",
+    "storage_bucket": "playflow-nlw06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129153185148:android:bf6ad241e4a3175097e0f9",
+        "android_client_info": {
+          "package_name": "com.opera3000.playflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129153185148-crqb45qu5lui7ak9ra5bt2sgr63b5phu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARgauTfAP7J1F9xuUnS4q_T1tG2UiSkow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129153185148-crqb45qu5lui7ak9ra5bt2sgr63b5phu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
